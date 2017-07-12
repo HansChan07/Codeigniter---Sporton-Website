@@ -1,0 +1,71 @@
+.success-message {
+	border: 1px solid #b8c97b;
+    background: url("../../img/icons/success.png") no-repeat scroll 10px 50% #e5edc4;
+    background: -webkit-gradient(linear, left top, left bottom, from(#e5edc4), to(#d9e4ac));
+    background: -moz-linear-gradient(top,  #e5edc4,  #d9e4ac);
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#e5edc4', endColorstr='#d9e4ac');
+    color: #3f7227;
+    text-shadow: 0 1px 0 #fff;  
+    margin:10px; 
+    border-radius:5px; 
+}
+    
+.error-message {
+  	border: 1px solid #b8c97b;
+    background: url("../../img/icons/success.png") no-repeat scroll 10px 50% #e5edc4;
+    background: -webkit-gradient(linear, left top, left bottom, from(#e5edc4), to(#d9e4ac));
+    background: -moz-linear-gradient(top,  #e5edc4,  #d9e4ac);
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#e5edc4', endColorstr='#d9e4ac');
+    color: #FF0000;
+    text-shadow: 0 1px 0 #fff;  
+    margin-top: 10px;
+    border-radius:5px;  
+ }
+.error-message h5, .error-message p
+{
+	font-size: 12px;
+    font-weight: bold;
+    padding-left: 10px;
+    text-align: center;
+} 
+.success-message h5, .success-message p
+{
+	font-size: 12px;
+    font-weight: bold;
+    padding-left: 10px;
+    text-align: center;
+}
+label.error
+{
+	 color: red;
+		font-size:12px;
+		font-weight:bold;	
+}
+span .error
+{
+		 color: red;
+		font-size:12px;
+		font-weight:bold;	
+}
+.form-control:focus {
+    border-color: #3c8dbc !important;
+    box-shadow: none;
+}
+.edit_submit {
+	width:25%;
+	margin-bottom:10px;
+}
+.edit_form_padding {
+	padding: 10px 20px;
+ }
+.alert-div {
+	margin-top:15px;
+}
+ .backbtn{
+	margin-left:10px;	
+}
+.addbtn {
+	float: right;
+    margin-right: 30px;
+    margin-top: 15px;
+}
