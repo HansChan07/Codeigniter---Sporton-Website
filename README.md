@@ -1,6 +1,6 @@
 # PHP-SOURCE-CODE
 
-## Owner: Atiq.
+## Owner: Hans.
 
 ## Features:
 * TODO1:
