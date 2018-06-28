@@ -1,7 +1,5 @@
 # PHP-SOURCE-CODE
 
-## Owner: Hans.
-
 ## Features:
 * TODO1:
 * TODO2:
